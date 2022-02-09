@@ -1,0 +1,53 @@
+	<!-- Mods CENTRAL ECONOMY -->
+	<ce folder="mods_ce">
+		<file name="ambientlights_types.xml" type="types" />
+		<file name="ammomaking_types.xml" type="types" />
+		<file name="bbp_types.xml" type="types" />
+		<file name="betterdrinks_types.xml" type="types" />
+		<file name="breachcharge_types.xml" type="types" />
+		<file name="cannabisplus_types.xml" type="types" />
+		<file name="carcover_types.xml" type="types" />
+		<file name="codelock_types.xml" type="types" />
+		<file name="diseaseinjectors_types.xml" type="types" />
+		<file name="dogtags_types.xml" type="types" />
+		<file name="donmorefood_types.xml" type="types" />
+		<file name="drinksfood_types.xml" type="types" />
+		<file name="igloo_types.xml" type="types" />
+		<file name="keycard_types.xml" type="types" />
+		<file name="lootchests_types.xml" type="types" />
+		<file name="lootchests_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="mass_types.xml" type="types" />
+		<file name="mass_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="moredoors_types.xml" type="types" />
+		<file name="morefood_types.xml" type="types" />
+		<file name="morefood_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="moreitems_types.xml" type="types" />
+		<file name="mvs_types.xml" type="types" />
+		<file name="mvs_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="opbaseitems_types.xml" type="types" />
+		<file name="wallets_types.xml" type="types" />
+		<file name="tacticalbacon_types.xml" type="types" />
+	</ce>
+	<!-- Vehicles CENTRAL ECONOMY -->
+	<ce folder="vehicles_ce">
+		<file name="atv_types.xml" type="types" />
+		<file name="atv_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="dingo_types.xml" type="types" />
+		<file name="kamaz_types.xml" type="types" />
+		<file name="kamaz_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="landrover_types.xml" type="types" />
+		<file name="landrover_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="sprinter_types.xml" type="types" />
+		<file name="atv_events.xml" type="events" />
+		<file name="kamaz_events.xml" type="events" />
+		<file name="landrover_events.xml" type="events" />
+	</ce>
+	<!-- WEAPONS CENTRAL ECONOMY -->
+	<ce folder="weapons_ce">
+		<file name="arma_types.xml" type="types" />
+		<file name="arma_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="cpb_types.xml" type="types" />
+		<file name="cpb_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="gauss_types.xml" type="types" />
+		<file name="gauss_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
