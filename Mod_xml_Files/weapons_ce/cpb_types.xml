@@ -207,6 +207,8 @@
     <value name="Tier2" />
     <value name="Tier1" />
   </type>
+<!-- Removed with 1.16 game update
+
   <type name="Thompson">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
@@ -252,6 +254,7 @@
     <value name="Tier2" />
     <value name="Tier1" />
   </type>
+-->
   <type name="HoloSight">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
@@ -263,6 +266,23 @@
     <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier3" />
+    <value name="Tier2" />
+    <value name="Tier1" />
+  </type>
+  <type name="EPSX3">
+    <nominal>10</nominal>
+    <lifetime>10800</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
     <value name="Tier3" />
     <value name="Tier2" />
     <value name="Tier1" />
@@ -429,6 +449,8 @@
     <value name="Tier2" />
     <value name="Tier1" />
   </type>
+<!-- Removed with 1.16 game update
+
   <type name="Asval">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
@@ -519,6 +541,7 @@
     <value name="Tier2" />
     <value name="Tier1" />
   </type>
+-->
   <type name="KDMR_Worn">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
@@ -564,6 +587,8 @@
     <value name="Tier2" />
     <value name="Tier1" />
   </type>
+<!-- Removed with 1.16 game update
+
   <type name="MCRCARB_Black">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
@@ -624,6 +649,7 @@
     <value name="Tier2" />
     <value name="Tier1" />
   </type>
+-->
   <type name="TX15_Black">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
@@ -1113,7 +1139,7 @@
     <value name="Tier2" />
     <value name="Tier1" />
   </type>
-  <type name="FD338">
+  <type name="Kivaari">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
@@ -1128,7 +1154,7 @@
     <value name="Tier2" />
     <value name="Tier1" />
   </type>
-  <type name="FD338_mag">
+  <type name="Kivaari_mag">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
@@ -1143,7 +1169,7 @@
     <value name="Tier2" />
     <value name="Tier1" />
   </type>
-  <type name="FD338_20rnd_mag">
+  <type name="Kivaari_20rnd_mag">
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>

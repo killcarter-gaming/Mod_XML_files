@@ -80,6 +80,8 @@
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
+<!-- Removed with 1.16 game update
+
 	<type name="Thompson">
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="1.00" />
@@ -89,6 +91,7 @@
 			<item name="Thompson_StickMag" chance="0.50" />
 		</attachments>
 	</type>
+-->
 	<type name="M14_EFT">
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="1.00" />
@@ -99,6 +102,8 @@
 			<item name="M14_Magazine" chance="0.30" />
 		</attachments>
 	</type>
+<!-- Removed with 1.16 game update
+
 	<type name="CPBVSS">
 		<attachments chance="1.00">
 			<item name="PSO1Optic" chance="1.00" />
@@ -107,6 +112,7 @@
 			<item name="Mag_VSS_10Rnd" chance="0.30" />
 		</attachments>
 	</type>
+-->
 	<type name="KDMR_Worn">
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="1.00" />
@@ -123,6 +129,8 @@
 			<item name="KDMR_Magazine" chance="1.00" />
 		</attachments>
 	</type>
+<!-- Removed with 1.16 game update
+
 	<type name="Val">
 		<attachments chance="1.00">
 			<item name="" chance="1.00" />
@@ -143,6 +151,7 @@
 			<item name="BSuppressor" chance="1.00" />
 		</attachments>
 	</type>
+-->
 	<type name="Glock41">
 		<attachments chance="1.00">
 			<item name="" chance="1.00" />
@@ -151,6 +160,8 @@
 			<item name="Glock41_Magazine" chance="1.00" />
 		</attachments>
 	</type>
+<!-- Removed with 1.16 game update
+
 	<type name="MCRCARB_Black">
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="1.00" />
@@ -192,6 +203,7 @@
 			<item name="ETATH_Black" chance="1.00" />
 		</attachments>
 	</type>
+-->
 	<type name="TX15_Black">
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="1.00" />
