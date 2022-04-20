@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <spawnabletypes>
-<type name="CPB_PAM1911">
+    <type name="CPB_PAM1911">
 		<attachments chance="0.60">
 			<item name="CPB_PAM1911_Magazine" chance="1.00" />
 		</attachments>
