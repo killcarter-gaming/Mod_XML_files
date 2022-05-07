@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <!-- CPB LMGS -->
     <type name="CPB_PKM">
@@ -28,6 +28,18 @@
 
     <!-- CBP WEAPONS PISTOLS-->
     <type name="CPB_PAM1911">
+        <nominal>10</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+    <type name="CPB_FN502_Black">
         <nominal>10</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
@@ -1041,6 +1053,18 @@
         <usage name="Military"/>
     </type>
     <type name="CPB_PAM1911_Magazine">
+        <nominal>8</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+    <type name="CPB_FN502_Magazine">
         <nominal>8</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>

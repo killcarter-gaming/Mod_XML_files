@@ -5,6 +5,11 @@
 			<item name="CPB_PAM1911_Magazine" chance="1.00" />
 		</attachments>
 	</type>
+    <type name="CPB_FN502_Black">
+		<attachments chance="0.60">
+			<item name="CPB_FN502_Magazine" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="CPB_Deagle_Gold">
 		<attachments chance="0.60">
 			<item name="CPB_BigDeag_Magazine" chance="1.00" />
